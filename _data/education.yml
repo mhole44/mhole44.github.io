@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Science, Electrical Engineering and Computer Science (Computer Science and Engineering Program)
+  uni: Univeristy of California, Berkeley
+  year: 2015 &mdash; 2019
+  #awards:
+    #- award: 3.11 GPA
+  summary: 3.11 GPA
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Saint Joseph's High School
+  year: 2015
+  awards:
+    - award: St. Joseph High School Academic Excellence Award in Mathematics and Science
+
+  # summary: You can choose to have either a single or multiple awards
