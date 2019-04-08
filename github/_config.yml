@@ -1,0 +1,43 @@
+layout: sidebar
+style: light
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    forks: true
+    projects: Resume
+    # - repo-name
+
+social_media:
+  hackerrank: mhole44
+  linkedin: michael-hole
+  twitter: mhole44
+  website: https://mhole44.github.io
+
+topics:
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+
+  - name: ML
+    web_url: https://github.com/topics/ml
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xqTfdcuL1QYKCQkFzwX9ZAwHH7KaY0qrplXRwLJtmlqdrvHyUw

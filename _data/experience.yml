@@ -1,6 +1,28 @@
 # Jobs
 # Software Engineering Intern
+- company: Amazon.com Services, Inc
+  position: Software Development Engineer
+  duration: July 2019 &mdash; Present
+  url: https://www.aboutamazon.com/
+  summary: >
+    <ul class="resume-item-list">
+    <li>To be determined.</li>
+    </ul>
+
+# Software Engineering Intern
 - company: Starbutter AI
   position: Software Engineering Intern
   duration: June 2018 &mdash; November 2018
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  url: https://www.starbutter.com/
+  summary: >
+    <ul class="resume-item-list">
+    <li>Company Awards - Top fintech startup featured at Money 20/20; Featured at Google I/O 2018;
+    Startup Innovation Spotlight Award, LeadsCon, 2017</li>
+    <li>Optimized chatbots on the Google Assistant, Facebook Messenger, and Amazon Alexa platforms</li>
+    <li>Designed internal API  modules for Amazon Alexa platform. Developed 7 Skills using this codebase.</li>
+    <li>Created system for Amazon Alexa Flash Briefings, including: scheduled updates of content, test automation,
+    and a system for creating backup content</li>
+    <li>Skills serve over 1000 users per day</li>
+    <li>Designed multiple websites that serve aggregated review scores for top Mortgage and Car Insurance Companies</li>
+    <li>Technologies used: AWS (Lambda, DynamoDB, S3, Polly, CloudFront), Flask, Chalice</li>
+    </ul>

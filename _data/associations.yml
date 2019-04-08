@@ -1,15 +1,23 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: Engineering for Kids (E4K)
+  role: Treasurer & Web Architect
+  year: 2017 &mdash; 2019
+  url: http://e4k.berkeley.edu/
+  summary: >
+    E4K is a registered student organization on the UC Berkeley campus. The club plans a free science and
+    engineering education event (E4K Day) for local, underprivileged elementary kids, mentored by UC Berkeley
+    student organizations. As treasurer, I worked with the university to manage the club’s money,
+    set the budget for the year, and work with members to obtain donations from private companies.
+    As website architect, I was in charge of updating the website.The website is used to sign up volunteers,
+    request private donations, and sign-up kids for E4K Day.
 
-# - organization: PETA
-#   role: Volunteer
-#   year: 2001 &mdash; 2010
-#   url: https://www.peta.org/
-#   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
 
 
 - organization: Eric Okerblom Foundation
   role: Volunteer
   year: 2013 &mdash; 2015
-  # url: http://campuspress.yale.edu/amnesty/
+  url: http://www.eofoundation.net/
   summary: Volunteered at foundation that provides free healthcare to underprivileged community members.
+
+

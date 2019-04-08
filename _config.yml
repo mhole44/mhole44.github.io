@@ -42,6 +42,7 @@ topics:
     web_url: https://github.com/topics/ml
     image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xqTfdcuL1QYKCQkFzwX9ZAwHH7KaY0qrplXRwLJtmlqdrvHyUw
 
+
 # Build settings
 markdown: kramdown
 sass:
@@ -52,7 +53,7 @@ sass:
 title: Michael Hole
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Michael Hole - UNDER DEV"
+resume_name:                    "Michael Hole"
 resume_title:                   "Student at UC Berkeley"
 
 # used for the contact button in _layouts/index.html
@@ -65,7 +66,10 @@ resume_contact_address:         "Berkeley, CA"
 resume_header_contact_info:     "Berkeley, CA • (805) 478-0995 • mhole44@berkeley.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: >
+  <p style="text-align: justify;"> Michael Hole is a student at the University of California, Berkeley studying computer science. He recently
+  interned at Starbutter AI in Berkeley, California. He is in his final semester at Berkeley and taking Introduction
+  to Machine Learning. After graduation, he will join Amazon as a Software Development Engineer.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -78,11 +82,11 @@ resume_looking_for_work:        "no"
 resume_section_experience:      true
 resume_section_education:       true
 # resume_section_projects:        true
-# resume_section_skills:          true
+resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

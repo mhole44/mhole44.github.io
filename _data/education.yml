@@ -1,15 +1,27 @@
 # Degree
-- degree: Bachelor of Science, Electrical Engineering and Computer Science (Computer Science and Engineering Program)
+- degree: Bachelor of Science, Electrical Engineering and Computer Science
   uni: Univeristy of California, Berkeley
   year: 2015 &mdash; 2019
-  #awards:
-    #- award: 3.11 GPA
-  summary: 3.11 GPA
+  summary: >
+    Computer Science and Engineering Program<br>
+    Cumulative GPA: 3.11<br><br>
+
+    Significant Coursework
+    <ul class="resume-item-list" style="list-style: none;">
+    <li>
+    <div style="text-align: justify;">
+    The Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Computer Security,
+    Introduction to AI, Introduction to Machine Learning, Introduction to Databases,
+    Operating Systems and System Programming, Foundations of Data Science,
+    Introduction to the Internet (Architecture and Protocols), Discrete Mathematics and Probability Theory,
+    Efficient Algorithms and Intractable Problems
+    </div></li>
+    </ul>
 
 - degree: High School Diploma
   uni: Saint Joseph's High School
   year: 2015
   awards:
-    - award: St. Joseph High School Academic Excellence Award in Mathematics and Science
+    - award: St. Joseph High School Academic Excellence Awards in Mathematics and Science
 
   # summary: You can choose to have either a single or multiple awards
